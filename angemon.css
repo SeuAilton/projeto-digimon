@@ -56,16 +56,18 @@ h1 {
 
 main {
     background-color: #E2CF2F;
-    padding: 10px;
-    margin: 30px;
+    padding: 2px;
+    margin: auto;
     box-shadow: -3px 3px 5px 1px rgba(0, 0, 0, 0.349);
     border-radius: 3px;
+    min-width: 300px;
+    max-width: 1000px;
 }
 
 article {
     background-color: #E3E3E3;
     padding: 10px;
-    margin: 15px;
+    margin: 10px;
     box-shadow: -3px 3px 5px 1px rgba(0, 0, 0, 0.349);
     border-radius: 3px;
 }
